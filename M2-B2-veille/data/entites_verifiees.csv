@@ -1,0 +1,52 @@
+avis_id,debut,fin,categorie,valeur
+1,8,11,CHAMBRE,214
+1,44,58,TELEPHONE,06 39 98 12 45
+2,8,13,NOM,Sofia
+3,22,29,NOM,Lefèvre
+3,39,42,CHAMBRE,226
+3,82,102,EMAIL,j.lefevre@exemple.fr
+5,8,21,NOM,Claire Dumont
+5,31,40,RESERVATION,RES-48213
+6,11,29,CHAMBRE,deux cent quatorze
+7,18,30,NOM,karim benali
+7,34,51,TELEPHONE,+33 6 39 98 45 67
+9,17,23,NOM,Perrin
+10,11,38,EMAIL,marie.leroy (at) exemple.fr
+12,14,46,ADRESSE,"12 rue des Lilas, 33000 Bordeaux"
+14,0,6,NOM,Pierre
+15,6,9,CHAMBRE,501
+17,0,4,NOM,Rose
+19,6,16,TELEPHONE,0639981122
+20,9,13,NOM,Inès
+22,10,42,EMAIL,contact.dupuis+hotel@exemple.com
+23,0,20,NOM,Jean-Baptiste Moreau
+23,30,33,CHAMBRE,12B
+25,0,6,NOM,Aurore
+26,23,29,RESERVATION,7F3K9Q
+28,26,35,IDENTITE,18AB45678
+28,57,60,CHAMBRE,307
+30,4,10,NOM,Nguyen
+30,17,25,NOM,Da Silva
+31,8,14,NOM,thomas
+31,18,32,TELEPHONE,06.39.98.77.10
+33,0,6,NOM,Marcel
+34,33,42,RESERVATION,RES-50977
+36,14,17,CHAMBRE,118
+37,13,25,NOM,Fatou Diallo
+39,10,30,EMAIL,p-martin@exemple.org
+39,33,47,TELEPHONE,06 39 98 12 34
+41,0,6,NOM,Océane
+43,13,21,NOM,O'Connor
+43,39,42,CHAMBRE,409
+44,28,53,ADRESSE,"4 bis avenue Foch, Nantes"
+46,18,25,NOM,Garnier
+47,20,26,NOM,Haddad
+49,7,16,IDENTITE,AB-123-CD
+51,0,6,NOM,Martin
+52,22,25,NOM,Léa
+54,13,71,TELEPHONE,"zéro six, trente-neuf, quatre-vingt-dix-huit, douze, douze"
+55,11,19,NOM,Rousseau
+57,16,26,RESERVATION,ESC-009812
+58,0,5,NOM,Sacha
+58,9,13,NOM,Noor
+60,25,40,IDENTITE,@lucie.voyage33
